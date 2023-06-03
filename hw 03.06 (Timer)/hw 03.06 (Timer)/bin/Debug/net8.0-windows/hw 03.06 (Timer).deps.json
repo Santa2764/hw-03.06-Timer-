@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hw 03.06 (Timer)/1.0.0": {
+        "runtime": {
+          "hw 03.06 (Timer).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw 03.06 (Timer)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

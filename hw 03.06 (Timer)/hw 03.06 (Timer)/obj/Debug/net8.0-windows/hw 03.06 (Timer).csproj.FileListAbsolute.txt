@@ -1,0 +1,17 @@
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\bin\Debug\net8.0-windows\hw 03.06 (Timer).exe
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\bin\Debug\net8.0-windows\hw 03.06 (Timer).deps.json
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\bin\Debug\net8.0-windows\hw 03.06 (Timer).runtimeconfig.json
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\bin\Debug\net8.0-windows\hw 03.06 (Timer).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\bin\Debug\net8.0-windows\hw 03.06 (Timer).pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\obj\Debug\net8.0-windows\hw 03.06 (Timer).csproj.AssemblyReference.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\obj\Debug\net8.0-windows\hw_03._06__Timer_.Form1.resources
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\obj\Debug\net8.0-windows\hw 03.06 (Timer).csproj.GenerateResource.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\obj\Debug\net8.0-windows\hw 03.06 (Timer).GeneratedMSBuildEditorConfig.editorconfig
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\obj\Debug\net8.0-windows\hw 03.06 (Timer).AssemblyInfoInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\obj\Debug\net8.0-windows\hw 03.06 (Timer).AssemblyInfo.cs
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\obj\Debug\net8.0-windows\hw 03.06 (Timer).csproj.CoreCompileInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\obj\Debug\net8.0-windows\hw 03.06 (Timer).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\obj\Debug\net8.0-windows\refint\hw 03.06 (Timer).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\obj\Debug\net8.0-windows\hw 03.06 (Timer).pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\obj\Debug\net8.0-windows\hw 03.06 (Timer).genruntimeconfig.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 03.06 (Timer)\hw 03.06 (Timer)\obj\Debug\net8.0-windows\ref\hw 03.06 (Timer).dll
